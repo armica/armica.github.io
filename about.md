@@ -4,6 +4,5 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
-
+이런 귀한 곳에 누추한 분이
 {% include footer.html %}
