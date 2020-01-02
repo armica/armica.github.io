@@ -1,5 +1,5 @@
 name: S2ONMIN's blog 
-description: 
+description: "" 
 meta_description: "HI"
 
 aboutPage: true
@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         'S2ONMIN'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
